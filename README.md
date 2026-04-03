@@ -8,7 +8,7 @@ Designed with a focus on **real-world UI/UX**, smooth interactions, and cross-de
 
 ## Live Demo
 
- Deployed on Vercel: *(add your link here)*
+ Deployed on Vercel: *https://financial-dasboard-ui.vercel.app/*
 
 ---
 
